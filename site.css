@@ -1,0 +1,8 @@
+:root { color-scheme: light dark; font: 16px/1.7 system-ui, sans-serif; }
+body { margin: 0; background: #101723; color: #e7edf7; }
+main { max-width: 800px; padding: 36px 22px 64px; margin: auto; }
+h1 { font-size: clamp(26px, 5vw, 38px); line-height: 1.2; }
+h2 { margin-top: 30px; font-size: 21px; }
+a { color: #83dccc; overflow-wrap: anywhere; }
+a:focus-visible { outline: 3px solid #e6be69; outline-offset: 4px; }
+p { overflow-wrap: anywhere; }
